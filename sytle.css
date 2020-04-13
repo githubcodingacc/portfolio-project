@@ -1,0 +1,50 @@
+.headdiv {
+text-align: center;
+background-color: rgb(255, 0, 0);
+z-index: -1;
+}
+
+.heading1 {
+    text-align: center;
+}
+
+.ytlink {
+    text-decoration: none;
+    margin-right: 75%;
+    font-size: 1.2em;;
+    text-shadow: 1px 1px #000000;
+    background-color: pink;
+}
+
+.instagramimg {
+    height: 3%;
+    width: 3%;
+    margin-left: 85%;
+    padding: 0;
+    background-color: blue;
+}
+
+.instalink {
+    text-decoration: none;
+    font-size: 1.2em;
+    margin-bottom: 100px;
+    padding: 0;
+    background-color: orange;
+}
+
+.logo1 {
+    height: 100px;
+    width: 200px;
+    margin-right:90%;
+    background-color: yellowgreen;
+    padding: 1%;
+}
+.ytlogodiv {
+    margin: auto;
+    background-color: yellow;
+    width: 350px;
+}
+.ytlogo {
+    height: 100px;
+    width:300px;
+}
